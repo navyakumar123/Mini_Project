@@ -1,0 +1,101 @@
+Restaurant_ID,Name,Cuisine_Type,Location,Rating
+1,Thomas Inc,Chinese,West Carlos,4.28
+2,Singh-Lopez,Mexican,Port Tannerland,4.12
+3,Pruitt-Hoover,Italian,Gailtown,2.71
+4,Sanders Group,Chinese,Dennistown,3.67
+5,"Willis, Pittman and Ryan",Chinese,New Karenbury,4.95
+6,Olson-Maldonado,Chinese,North Ashley,1.7
+7,Chambers and Sons,Mexican,Wendymouth,3.08
+8,Elliott LLC,Indian,West Andremouth,4.82
+9,Brown Group,Indian,South Brandon,2.47
+10,Ball Group,Japanese,New Yvettefort,2.61
+11,Patterson-Jimenez,Mexican,Grantfurt,4.0
+12,Bernard-Mason,Japanese,North Tylerside,4.44
+13,"Jenkins, Taylor and Thompson",Italian,Brandonhaven,1.05
+14,"Daniel, Adams and Whitehead",Italian,North Ashley,3.55
+15,Smith-Downs,Italian,New Tylerburgh,3.58
+16,"Owen, Kim and Tucker",Italian,East Karen,4.24
+17,"Leonard, Brown and Archer",Chinese,West Ariel,4.9
+18,Riley Inc,Mexican,Millerbury,1.45
+19,Stokes Inc,Indian,Waltersfurt,4.2
+20,Fisher Group,Japanese,New Brandi,4.62
+21,"Davis, Hill and Aguilar",Mexican,Port Katherine,1.79
+22,Harris Ltd,Italian,West Melissa,4.16
+23,Kennedy LLC,Mexican,Stephanieton,2.45
+24,Miller Group,Japanese,Angelaton,4.52
+25,Bryant and Sons,Indian,North Ericton,3.28
+26,"Jackson, Adams and Hopkins",Chinese,Harrisfurt,1.74
+27,"Jordan, Jones and Mitchell",Mexican,East Jonathan,4.84
+28,Johnson Ltd,Chinese,Georgeport,2.15
+29,Little and Sons,Japanese,Michaelside,1.91
+30,"Barrett, Brown and Montoya",Chinese,New Maryside,2.13
+31,Wilson LLC,Japanese,Abigailfort,2.8
+32,"Mahoney, Li and Lawrence",Chinese,New Karenchester,2.47
+33,Morgan Group,Italian,Katieville,1.57
+34,"Evans, Calhoun and Washington",Mexican,Lake Nicholas,3.58
+35,Fritz-Dominguez,Mexican,Port Roger,3.74
+36,"Anderson, Burgess and Franklin",Japanese,Lake Samantha,3.48
+37,"Obrien, Ferguson and Sellers",Chinese,Thomasland,4.77
+38,Brown-Martinez,Japanese,North Christineshire,1.84
+39,Parker-Perry,Japanese,East Carolfort,1.46
+40,Cox LLC,Italian,South Joshua,2.05
+41,"Moran, Anderson and Li",Mexican,Rodriguezland,4.63
+42,Hughes-Jones,Italian,South Megan,3.89
+43,Harris PLC,Indian,Davidsonhaven,1.55
+44,Barnes PLC,Indian,Cruzton,2.02
+45,"Ritter, Peterson and Hanson",Chinese,Lake Gabriella,1.98
+46,Jackson-Hawkins,Indian,Ronaldchester,4.34
+47,Long Inc,Indian,Schaeferburgh,4.44
+48,"Brooks, Garrett and Baldwin",Japanese,West Caitlin,3.58
+49,"Marshall, Cook and Sharp",Mexican,South Elizabethborough,3.76
+50,"Sullivan, Jones and Knox",Japanese,Vanessamouth,2.92
+51,Ayers-Lewis,Chinese,Port Tammyland,3.57
+52,"Richardson, Fitzpatrick and Hanson",Chinese,West Melissa,4.22
+53,Jackson Group,Italian,Nicholasview,4.0
+54,Rodriguez-Rosales,Indian,Port Raymond,3.47
+55,Vincent-Green,Chinese,Colechester,4.08
+56,"Lowe, Peterson and Friedman",Japanese,Port Tiffany,1.19
+57,Mitchell Ltd,Japanese,North Mariamouth,3.67
+58,"Ortiz, Gonzalez and Le",Indian,Lake Cynthiaberg,1.74
+59,"Clements, Allen and Brown",Mexican,Hartmanside,4.77
+60,"Hall, Hayes and Nichols",Chinese,Lauramouth,1.12
+61,Stanley Group,Chinese,Carrollland,4.39
+62,"Hurley, Webb and Flores",Italian,Michaelview,1.01
+63,Tran Ltd,Japanese,Kylefort,4.33
+64,Gill LLC,Japanese,Sarahfurt,2.0
+65,"Tyler, Jackson and Mitchell",Japanese,Sandraview,4.12
+66,Fernandez-Anderson,Indian,East Karen,3.04
+67,"Mcdonald, Hale and Clark",Italian,Michaelhaven,2.77
+68,Smith Group,Chinese,Carlamouth,1.39
+69,"Smith, Herrera and Fitzgerald",Japanese,Jesusmouth,1.94
+70,Mcdonald Ltd,Japanese,Williamport,1.41
+71,Lee LLC,Mexican,South Amanda,1.78
+72,Martin Ltd,Indian,Marychester,1.58
+73,Cardenas-Jackson,Indian,Aaronchester,3.88
+74,"Ellis, Sawyer and Salinas",Mexican,Gomezton,4.61
+75,Griffith-Rodriguez,Indian,Lake Heatherview,4.94
+76,Smith-Kim,Chinese,Timothyberg,4.22
+77,Lopez-Smith,Italian,Port Latashashire,4.16
+78,Haynes LLC,Indian,South Matthew,2.3
+79,Ho Inc,Indian,Leeborough,4.21
+80,Contreras Ltd,Italian,Davischester,1.51
+81,"Warner, Spencer and Nichols",Indian,New James,1.68
+82,"Ashley, Davis and Friedman",Chinese,South Aliciaton,2.79
+83,Campos Inc,Indian,Cassandraland,1.13
+84,"Martinez, Parker and Reyes",Mexican,Cookfurt,2.56
+85,"Hebert, Nelson and Nguyen",Japanese,Williamhaven,2.25
+86,Watson Group,Italian,South Juan,2.24
+87,Savage-Smith,Italian,Lake Brian,2.15
+88,"Cooper, Hernandez and Jordan",Italian,South Jillmouth,3.7
+89,Joseph-Smith,Indian,Port Wendy,1.39
+90,"Delgado, Gillespie and White",Chinese,Jamesfurt,3.02
+91,Wood-Williams,Indian,Lake Jeremy,4.31
+92,Williams Group,Japanese,West Katrinafort,3.48
+93,"Reeves, Rojas and Jensen",Mexican,Careyberg,4.04
+94,Murray LLC,Japanese,Dalemouth,4.55
+95,Hall Ltd,Indian,Anthonyborough,1.19
+96,"Baldwin, Daniels and Kirk",Japanese,Alexanderbury,1.46
+97,"Vaughan, Conley and Johnson",Italian,North Amy,4.52
+98,Holmes-Hill,Italian,Port Chris,3.06
+99,"Cunningham, Hall and Luna",Indian,Travismouth,1.31
+100,"Wilson, Sanders and Sweeney",Chinese,West Dustinmouth,1.54

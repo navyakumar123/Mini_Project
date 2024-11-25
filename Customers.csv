@@ -1,0 +1,101 @@
+Customer_ID,Name,Age,Gender,Location
+1,Melissa Wright,21,Other,Port Joshua
+2,Heather Acosta,46,Female,Ralphland
+3,Jacqueline Young,59,Male,Schmidtville
+4,Sandra Harvey,52,Other,Whitakerhaven
+5,Adam Holland,60,Other,Kylechester
+6,Zachary Smith,49,Female,Port Michael
+7,Andrew Macdonald,62,Female,Thompsonton
+8,Christopher Hernandez,21,Male,East David
+9,Douglas Bryan,34,Male,Port Catherineville
+10,Paul Ruiz,44,Other,West Gregoryland
+11,David Gardner,38,Other,North John
+12,John Preston,46,Male,South Kevinberg
+13,Michelle Rose,64,Female,Ronaldstad
+14,Duane Adkins,24,Male,Wandahaven
+15,Tiffany Carey,28,Male,Jackieside
+16,Dr. Cassandra Nguyen,51,Other,East Emilyside
+17,Jessica Cowan,37,Male,Devinside
+18,William Murphy,26,Other,West James
+19,Jamie Dorsey,66,Other,Kathrynstad
+20,Albert Wright,63,Male,East Adriennefort
+21,Melissa Martin,28,Female,North James
+22,Taylor Burton,36,Female,Port Amanda
+23,Kenneth Dawson,63,Other,West Tyrone
+24,Holly Summers,34,Male,Bakerfort
+25,Sandra Williams,35,Other,Elizabethhaven
+26,Erik Harris,37,Female,East Dylanton
+27,Joanne Mckenzie,37,Male,Phillipsbury
+28,Brandon Gonzalez,56,Female,Carpenterburgh
+29,Jacqueline Watson,56,Female,North Greg
+30,Eric Bowers,38,Other,West Christopherchester
+31,Matthew Thomas,38,Male,West Jason
+32,Melanie Dominguez,29,Female,Patrickside
+33,Suzanne Gonzalez,29,Other,New Jose
+34,Erin Reyes,36,Other,Kimburgh
+35,Kristine Williams,25,Male,Garyview
+36,Vincent Harris MD,60,Female,New James
+37,Karen Harris,64,Female,Loganborough
+38,Charles Sanchez,57,Other,Hernandezfurt
+39,Jessica Walker,18,Female,Alyssashire
+40,Annette Carpenter,65,Female,Lake Stephanie
+41,Kimberly Hodges,43,Other,South Michaelview
+42,Robert Dominguez,40,Female,New Nicholasstad
+43,Crystal Smith,28,Other,East Jessicaberg
+44,John Stone,63,Male,Juliehaven
+45,Matthew Lucas,31,Other,Vaughnhaven
+46,Kathy Terry,67,Male,West Michelleville
+47,Shannon Bennett,23,Female,North Katie
+48,Jeanette Wright,69,Other,Webbberg
+49,Darren Gill,18,Male,Tylerside
+50,Willie Coleman,18,Other,Murraychester
+51,Bradley Moreno,60,Male,New Ashley
+52,Chad Smith,25,Male,South Daniel
+53,Emily Sweeney,28,Male,East Kristin
+54,Antonio Morrison,58,Female,North Sarah
+55,Tonya Brown,37,Male,Castillohaven
+56,Reginald Williams,29,Male,North Hannahmouth
+57,Jasmine Schneider,34,Female,Lake Beverly
+58,Jerry Gomez,70,Female,Alexandriaberg
+59,Travis Warren,34,Other,Michaelland
+60,Yesenia Woods,53,Other,Troychester
+61,Monica Harris,59,Female,Port Karen
+62,Amanda Wright,37,Other,Diazville
+63,Anna Harper,20,Female,North Christy
+64,Nicole Robertson,31,Male,Lake Breannaside
+65,Sandra Simon,29,Other,Lisatown
+66,Christopher Andrews,51,Other,North Andrewmouth
+67,Nicole Garcia,43,Male,West Michellefort
+68,Patrick Powers,31,Male,South Michaelton
+69,Steven Taylor MD,63,Other,South Cynthia
+70,Ashley Johnson,29,Female,Robinsonbury
+71,Frederick Rodriguez,55,Male,Alexandriaview
+72,Yvette Bailey,24,Male,Humphreyland
+73,Lawrence Lopez,32,Female,Michaelfurt
+74,April Randolph,64,Other,Richardchester
+75,Robert Mcintyre,65,Male,Johnshire
+76,Diane Fisher,49,Female,West Natalie
+77,Mike Flores,64,Male,Maryport
+78,Jasmine Brown,18,Other,Juliestad
+79,Laurie Clark,62,Female,North Maurice
+80,Christopher Higgins,45,Male,Lake Adamberg
+81,Robert Richardson DDS,63,Male,Lake Erintown
+82,Tracy Perez,21,Male,New Lisa
+83,Paul Hampton,21,Other,West Jennifer
+84,Louis Davis,42,Other,Lewishaven
+85,Karen Hill,18,Other,Braystad
+86,Gary Ray,24,Other,Alisonborough
+87,Mary Young DVM,24,Other,Reynoldsview
+88,David Walker,21,Male,East Derek
+89,Kyle Johnston,26,Female,Lisastad
+90,Andrea Stevens,24,Female,Charlesside
+91,Jamie May,44,Female,North Jeremy
+92,Vicki Hill,57,Male,Port Courtneyburgh
+93,Edward Baldwin,33,Female,Michaelborough
+94,Steven Wilson,18,Female,Andersonshire
+95,David Martinez,39,Female,Scottborough
+96,Jose Lopez,70,Other,Johnfurt
+97,Lee Kennedy,47,Female,Rodriguezview
+98,Theresa Christian,64,Female,North Paul
+99,Jennifer Williams,31,Male,Lake Suzanneburgh
+100,Ashley Daniels,68,Female,Nelsonhaven
